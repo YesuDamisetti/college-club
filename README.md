@@ -185,12 +185,6 @@ Then navigate to `http://localhost:8000` in your browser.
 - **Member Portal**: Login system for members
 - **Social Integration**: Enhanced social media features
 
-## 📞 Contact Information
-
-- **Email**: techinnovation@college.edu
-- **Phone**: +91 7330615400
-- **Meeting**: Student Center, Room 201 (Thursdays, 6:00 PM)
-
 ## 🤝 Contributing
 
 1. Fork the repository
