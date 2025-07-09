@@ -201,4 +201,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Tech Innovation Club** - Empowering students through technology, innovation, and collaboration.
 
-*Built with ❤️ by the Tech Innovation Club developmer yesu raju*
+*Built with ❤️ by the Tech Innovation Club developer yesu raju*
